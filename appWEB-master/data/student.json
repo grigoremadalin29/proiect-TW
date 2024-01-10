@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Ana Popescu",
+        "username": "anapop",
+        "pass": "secret01"
+    },
+    {
+        "name": "Mihai Ionescu",
+        "username": "mihaiion",
+        "pass": "password2"
+    },
+    {
+        "name": "Laura Georgescu",
+        "username": "laurageo",
+        "pass": "parola123"
+    },
+    {
+        "name": "Bogdan Dragomir",
+        "username": "bogdand",
+        "pass": "mypass4"
+    }
+]

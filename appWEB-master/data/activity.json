@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Proiectarea sistemelor informatice",
+        "start_date": "2024-01-10T09:00:00.000Z",
+        "end_date": "2024-01-10T11:00:00.000Z",
+        "count_emoji1": 10,
+        "count_emoji2": 5,
+        "count_emoji3": 3,
+        "count_emoji4":3
+    },
+    {
+        "name": "Multimedia",
+        "start_date": "2024-02-15T14:00:00.000Z",
+        "end_date": "2024-02-15T15:00:00.000Z",
+        "count_emoji1": 7,
+        "count_emoji2": 9,
+        "count_emoji3": 4,
+        "count_emoji4":2
+    },
+    {
+        "name": "Econometrie",
+        "start_date": "2024-03-20T17:00:00.000Z",
+        "end_date": "2024-03-20T19:00:00.000Z",
+        "count_emoji1": 15,
+        "count_emoji2": 20,
+        "count_emoji3": 10,
+        "count_emoji4":4
+    }
+]

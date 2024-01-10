@@ -1,0 +1,22 @@
+[
+    {
+        "time_stamp": "2024-01-10T09:30:00.000Z",
+        "id_act": 1,
+        "emoji": "multumit"
+    },
+    {
+        "time_stamp": "2024-01-10T09:45:00.000Z",
+        "id_act": 2,
+        "emoji": "nemultumit"
+    },
+    {
+        "time_stamp": "2024-01-11T10:00:00.000Z",
+        "id_act": 3,
+        "emoji": "indiferenet"
+    },
+    {
+        "time_stamp": "2024-01-12T11:15:00.000Z",
+        "id_act": 3,
+        "emoji": "multumit"
+    }
+]

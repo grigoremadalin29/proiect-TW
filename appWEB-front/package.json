@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "fbemitter": "^3.0.0",
+    "react-minimal-pie-chart": "^8.4.0",
+    "react-router-dom": "^6.21.1"
+  }
+}

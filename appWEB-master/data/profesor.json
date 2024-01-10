@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Ion Popescu",
+        "specialty": "Matematica",
+        "username": "ipopescu",
+        "pass": "parola123"
+    },
+    {
+        "name": "Maria Ionescu",
+        "specialty": "Fizica",
+        "username": "mionescu",
+        "pass": "securitate"
+    },
+    {
+        "name": "Andrei Georgescu",
+        "specialty": "Informatica",
+        "username": "ageorgescu",
+        "pass": "computer12"
+    },
+    {
+        "name": "Elena Dragomir",
+        "specialty": "Chimie",
+        "username": "edragomir",
+        "pass": "experiment"
+    }
+]
